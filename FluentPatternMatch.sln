@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentPatternMatch", "FluentPatternMatch\FluentPatternMatch.csproj", "{38F84E22-52E9-4D2C-B4F8-6307CE8A40DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentPatternMatchTests", "FluentPatternMatchTests\FluentPatternMatchTests.csproj", "{04EB69A1-34C3-4363-9854-EB9E713929A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F84E22-52E9-4D2C-B4F8-6307CE8A40DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F84E22-52E9-4D2C-B4F8-6307CE8A40DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F84E22-52E9-4D2C-B4F8-6307CE8A40DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F84E22-52E9-4D2C-B4F8-6307CE8A40DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04EB69A1-34C3-4363-9854-EB9E713929A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EB69A1-34C3-4363-9854-EB9E713929A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EB69A1-34C3-4363-9854-EB9E713929A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EB69A1-34C3-4363-9854-EB9E713929A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

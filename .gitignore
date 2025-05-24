@@ -1,0 +1,108 @@
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+*.Build.Caches/
+*.dbmdl
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS Code
+.vscode/
+
+# Rider logs
+.idea/.idea.*
+.idea/.idea_modules/
+.idea/.idea_config/
+.idea/.idea_workspace/
+.idea/.idea_settings/
+.idea/.idea_cache/
+.idea/.idea_index/
+.idea/.idea_modules.xml
+.idea/.idea_config.xml
+.idea/.idea_workspace.xml
+.idea/.idea_settings.xml
+.idea/.idea_cache.xml
+.idea/.idea_index.xml
+
+# Test results
+TestResults/
+*.TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.testsettings
+*.vsmdi
+*.vsp
+*.vspx
+*.sap
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Dotnet tools
+*.dotCover
+*.dotCover.*
+*.dotMemory
+*.dotMemory.*
+*.dotTrace
+*.dotTrace.*
+*.dotUltimate
+*.dotUltimate.*
+
+# Logs
+*.log
+
+# Others
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+*.orig
+
+# Local history for JetBrains IDEs
+.idea/.localhistory/
+
+# Rider caches
+.idea/.cache/
+.idea/.gradle/
+.idea/.workspace/
+.idea/.idea/
+.idea/.idea_modules/
+.idea/.idea_config/
+.idea/.idea_workspace/
+.idea/.idea_settings/
+.idea/.idea_cache/
+.idea/.idea_index/
+
+# Backup & temp files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Publish
+publish/
+out/
